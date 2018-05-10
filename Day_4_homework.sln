@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_4_homework", "Day_4_homework\Day_4_homework.csproj", "{783724A6-07A8-401B-97FB-94E741A21F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783724A6-07A8-401B-97FB-94E741A21F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783724A6-07A8-401B-97FB-94E741A21F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783724A6-07A8-401B-97FB-94E741A21F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783724A6-07A8-401B-97FB-94E741A21F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
